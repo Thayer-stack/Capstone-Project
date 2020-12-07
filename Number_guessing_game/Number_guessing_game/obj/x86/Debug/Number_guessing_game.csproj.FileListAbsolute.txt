@@ -1,0 +1,6 @@
+/home/t8t3rt0t/Projects/Number_guessing_game/Number_guessing_game/bin/Debug/Number_guessing_game.exe
+/home/t8t3rt0t/Projects/Number_guessing_game/Number_guessing_game/bin/Debug/Number_guessing_game.pdb
+/home/t8t3rt0t/Projects/Number_guessing_game/Number_guessing_game/obj/x86/Debug/Number_guessing_game.csprojAssemblyReference.cache
+/home/t8t3rt0t/Projects/Number_guessing_game/Number_guessing_game/obj/x86/Debug/Number_guessing_game.csproj.CoreCompileInputs.cache
+/home/t8t3rt0t/Projects/Number_guessing_game/Number_guessing_game/obj/x86/Debug/Number_guessing_game.exe
+/home/t8t3rt0t/Projects/Number_guessing_game/Number_guessing_game/obj/x86/Debug/Number_guessing_game.pdb
